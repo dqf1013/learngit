@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL.CZP
 Git has a mutable index called stage
 Git tracks changes
 learngit
-creating a new branch is quick
+creating a new branch is quick & simple
